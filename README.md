@@ -1,2 +1,2 @@
-# www.azureserver.com
+# azureserver.com
 azureserver
